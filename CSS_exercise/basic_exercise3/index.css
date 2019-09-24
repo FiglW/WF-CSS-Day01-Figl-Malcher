@@ -1,0 +1,17 @@
+.text {
+	width: 500px;
+	height: 1025px;
+	border: 1px solid black;
+	margin-left: 34%;
+	padding: 10px;
+	background-color: #C3C9C4
+}
+
+.author{
+	
+	float: left;
+	
+}
+.Wir{
+	float: left;
+}
