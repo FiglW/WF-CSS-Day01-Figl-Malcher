@@ -1,0 +1,31 @@
+body{
+	background-image: url('./code2.jpg')
+
+
+}
+h1{
+	font-family: Comic Sans MS;
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+label, fname, lname{
+	color: black;
+	font-size: 20px;
+	font: bold;
+	font-family: Arial;
+	font-weight: bold;
+}
+select, country, subject{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+form{
+	background: grey;
+	opacity: 0.8;
+	width: 100%;
+}
