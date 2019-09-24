@@ -1,0 +1,230 @@
+/*body{
+	background-image: url("C:/Users/wolfg/Documents/code_factory/home-pc/Figma/img/super-mario-odyssey-artwork_1920x1080.jpg");
+
+
+
+
+	width: 1920px;
+	height: 1080px;
+	max-width: 90%;
+	
+
+	margin: 0 auto;
+
+	
+}
+header {
+
+
+	max-width: 100%;
+	
+
+	margin: 0 auto;
+
+}
+
+
+
+#han{
+	width: 291.75px;
+	height: 74.75px;
+	
+}
+
+
+.überschrift{
+
+	margin-right: 200px;
+
+}
+
+
+
+.backgroundheader{
+
+
+width: 1920px;
+height: 75px;
+background: #E80404;
+list-style: none;
+
+}
+
+
+iframe.test {
+	margin-left: 250px;
+	margin-right: 500px ;
+	margin-top: 250px;
+}
+
+
+
+.nav{
+
+	height: 200px;
+	margin-top: 35px;
+	margin-right: 80px;
+
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+
+
+}
+li{
+
+	float: left;
+}
+
+
+/*.home{
+
+position: absolute;
+width: 144px;
+height: 46px;
+left: 402px;
+top: 35px;
+
+font-family: Comic Sans MS;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 5px;
+text-align: center;
+color: white;
+
+
+}
+
+
+
+.News{
+
+position: absolute;
+width: 171px;
+height: 27px;
+left: 1392px;
+top: 35px;
+
+font-family: Comic Sans MS;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 5px;
+text-align: center;
+
+color: #FEFDFD;
+}
+
+
+.Nintendo-Switch-Familie{
+
+position: absolute;
+width: 260px;
+height: 27px;
+left: 605px;
+top: 35px;
+
+font-family: Comic Sans MS;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 5px;
+text-align: center;
+
+color: #FEFDFD;
+}
+
+
+
+.Nintendo-labo{
+
+position: absolute;
+width: 234px;
+height: 27px;
+left: 1099px;
+top: 35px;
+
+font-family: Comic Sans MS;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 5px;
+text-align: center;
+
+color: #FEFDFD;
+}
+
+
+
+.Games{
+
+position: absolute;
+width: 116px;
+height: 27px;
+left: 924px;
+top: 35px;
+
+font-family: Comic Sans MS;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height:5px;
+text-align: center;
+
+color: #FEFDFD;
+}
+
+
+
+.contact{
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: 1622px;
+top: 35px;
+
+font-family: Comic Sans MS;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height:5px;
+text-align: center;
+
+color: #FEFDFD;
+} */
+
+.row:after{
+	display: table;
+	clear: both;
+
+}
+.column{
+	width: 10%;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 120px;
+}
+.größe{
+	width: 75%;
+	height: 75%;
+}
+.größe:hover{
+	width: 95%;
+	height: 95%;
+}
+
+a{
+	text-decoration: none;
+}
+
+h1{
+	color: white;
+	text-align: center;
+
+}

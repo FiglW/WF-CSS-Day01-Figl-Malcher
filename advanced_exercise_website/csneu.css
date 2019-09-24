@@ -1,0 +1,114 @@
+body{
+	background-image: url("./super-mario-odyssey-artwork_1920x1080.jpg");
+
+	width: auto;
+	height: 1080px;
+	max-width: 100%;
+
+	margin: 0 auto;
+
+	
+}
+
+
+#han{
+	width: 291.75px;
+	height: 74.75px;
+	
+}
+
+li{
+	float: left;
+	list-style: none;
+}
+.nav{
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	color: white;
+	margin-top: 30px;
+	margin-right: 80px;
+
+}
+header{
+	width: auto;
+	height: 75px;
+	background: #E80404;
+}
+
+
+.überschrift{
+
+	margin-right: 200px;
+
+}
+a{
+	text-decoration: none;
+}
+.backgroundheader{
+	position: relative;
+}
+
+.row:after{
+	display: table;
+	clear: both;
+
+}
+.column{
+	width: 10%;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 120px;
+}
+.größe{
+	width: 75%;
+	height: 75%;
+}
+.größe:hover{
+	width: 95%;
+	height: 95%;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+.feld{
+	width: 80%;
+	height: 5px;
+	
+}
+.neuigkeiten{
+	color: white;
+	font-size: 25px;
+
+	
+	
+}
+#logoicon{
+	width: 90px;
+	height: 90px;
+	margin-top: 33px;
+	margin-right: 50px;
+
+}
+.newsnav{
+	
+	float: left;
+	margin-top: 50px;
+	margin-left: 45px;
+
+}
+.lastupdate{
+	font-size: 13px;
+	color: white;
+
+
+}
+	
+		
+
+
+
+

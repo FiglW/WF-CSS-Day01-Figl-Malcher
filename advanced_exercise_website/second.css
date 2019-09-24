@@ -1,0 +1,112 @@
+body{
+	background-image: url("./labo.jpg");
+
+	width: 1920px;
+	height: 1080px;
+	max-width: 90%;
+	
+
+	margin: 0 auto;
+
+
+
+
+
+	
+}
+
+header {
+
+	
+	max-width: 90%;
+	
+
+	margin: 0 auto;
+
+}
+
+
+
+#han{
+	width: 291.75px;
+	height: 74.75px;
+	
+}
+
+
+
+.überschrift{
+
+	margin-right: 200px;
+
+}
+
+
+.nav{
+
+	
+	margin-top: 35px;
+	margin-right: 80px;
+
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 5px;
+	text-align: center;
+	color: white;
+
+
+}
+li{
+
+	float: left;
+}
+
+
+.backgroundheader{
+	position: absolute;
+
+width: 1920px;
+height: 75px;
+left: 0px;
+top: 0px;
+background: #E80404;
+list-style: none;
+}
+
+
+iframe.test {
+	margin-left: 250px;
+	margin-right: 500px ;
+	margin-top: 250px;
+}
+
+
+
+
+
+.row:after{
+	display: table;
+	clear: both;
+
+}
+.column{
+	width: 10%;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 120px;
+}
+.größe{
+	width: 75%;
+	height: 75%;
+}
+.größe:hover{
+	width: 95%;
+	height: 95%;
+}
+
+a{
+	text-decoration: none;
+}
